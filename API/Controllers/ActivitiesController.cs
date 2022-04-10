@@ -13,7 +13,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace API.Controllers
 {
-    public class ActivitiesController : BaseAPIController
+    public class ActivitiesController : BaseApiController
     {
         
 
